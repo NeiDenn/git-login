@@ -1,10 +1,10 @@
 # git-login
 
-Formulario de inicio de sesión y contraseña usando HTML y BOOTSTRAP5
+Formulario de inicio de sesión y contraseña usando HTML y BOOTSTRAP5.
 
 ## Check it live here
 
-No link at the moment
+No link at the moment.
 
 ## Screenshot
 
