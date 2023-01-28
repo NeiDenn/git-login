@@ -1,6 +1,6 @@
 # git-login-form
 
-Formulario de inicio de sesión usando HTML y BOOTSTRAP5.
+Formulario de inicio de sesión.
 
 ## Check it live here
 
