@@ -4,7 +4,7 @@ Formulario de inicio de sesión.
 
 ## Check it live here
 
-[https://neidenn.github.io/git-login/login.html](https://neidenn.github.io/git-login/login.html)
+[No link at the moment]()
 
 ## Screenshot
 
